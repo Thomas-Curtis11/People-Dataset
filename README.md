@@ -5,7 +5,7 @@ Imported a csv dataset from chatgpt for a data cleaning exercise and data visual
 Contains information about name, age, height, weight, gender, and country.
 
 # Software and libraries
-Google Colab
-Pandas
-Matplotlib
-Numpy
+- Google Colab
+- Pandas
+- Matplotlib
+- Numpy
